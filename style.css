@@ -1,0 +1,57 @@
+body{text-align: center;
+background-color: #d3f4ff;}
+
+hr{
+    border-style: dotted;
+border-top-style:none;
+  border-color: #ffd369;
+  border-width:5px;
+  width: 5%
+
+
+}
+
+
+
+
+
+
+
+.exp{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+
+}
+
+
+.web{float: left;
+  margin-right: 30px;
+
+}
+
+.droid{float: right;
+
+}
+
+.apple{float: left;
+  margin-right: 30px;
+
+
+
+}
+
+
+
+h3{font-family: 'Gochi Hand', cursive;
+color: black;
+
+}
+
+h2{font-family: 'Anton', sans-serif;
+color: red;
+}
+
+.my-picture{
+border-radius: 50%;
+}
